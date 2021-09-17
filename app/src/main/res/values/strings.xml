@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Twinby_Bday_Card</string>
+    <string name="bday_intro">Happy Birthday, River!</string>
+    <string name="signature_text">From, Kiernan</string>
+    <string name="bday_msg">I\'m so happy to have a twinby like you!</string>
+    <string name="center_image">Four cats wishing a person happy birthday</string>
+</resources>
